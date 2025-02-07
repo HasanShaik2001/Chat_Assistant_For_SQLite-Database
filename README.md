@@ -36,8 +36,6 @@ A Python application that provides a natural language interface to query an SQLi
 
 ### Limitations
 
-### Current Limitations
-
 #### Query Processing
 
 * The application is limited to predefined query patterns
@@ -57,3 +55,9 @@ A Python application that provides a natural language interface to query an SQLi
 * Basic GUI design
 * No data visualization
 * Limited result formatting options
+
+### Suggestions for Improvement 
+
+* Enhanced Query Processing ( -  Multiple department queries , Salary range queries )
+* Database Enhancements ( - Data modification capabilities, User authentication , )
+* Interface Improvements ( - Data visualization , Dark/Light mode )
