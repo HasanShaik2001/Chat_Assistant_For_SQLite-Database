@@ -8,9 +8,9 @@ A Python application that provides a natural language interface to query an SQLi
 
 ### Natural Language Processing
 
-1.Parses user input using regex patterns
-2.Identifies query intent and parameters
-3.Maps to predefined SQL query templates
+* Parses user input using regex patterns
+* Identifies query intent and parameters
+* Maps to predefined SQL query templates
 
 
 ### Database Management
