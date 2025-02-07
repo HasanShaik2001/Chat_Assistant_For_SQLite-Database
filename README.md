@@ -32,3 +32,28 @@ A Python application that provides a natural language interface to query an SQLi
 * After that we should set up Development Environment
 * And then we should try to run Application
 * Finally we should start testing the  queries
+
+
+### Limitations
+
+### Current Limitations
+
+#### Query Processing
+
+* The application is limited to predefined query patterns
+* No fuzzy matching for similar queries
+* Case-sensitive department names
+
+
+#### Database
+
+* Single database file
+* No concurrent user support
+* Limited to read-only operations
+
+
+#### Interface
+
+* Basic GUI design
+* No data visualization
+* Limited result formatting options
